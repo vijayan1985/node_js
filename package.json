@@ -1,0 +1,29 @@
+{
+  "name": "sampleCode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "no test Specified"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vijayan1985/node_js.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijayan1985/node_js/issues"
+  },
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.3",
+    "should": "^13.0.1",
+    "supertest": "^3.0.0"
+  }
+}
